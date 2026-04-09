@@ -29,7 +29,7 @@
 
 - 🛠️ I’m currently working with *JavaScript, React, Node.js, Express, MongoDB, and Tailwind CSS.*
 - 🚀 I’m currently exploring *Next.js, TypeScript, and Advanced Backend Architectures.*
-- 📫 Reach me out: *lokmanhossenjoy13@email.com*
+- 📫 Reach me out: *smsohagmia250@gmail.com*
 
 ### 🌟 My Absolute Favorites:
 
