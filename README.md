@@ -3,7 +3,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello%2C+There+!;I'm+SM+Sohag....;Nice+to+Meet+You+😊" alt="Typing SVG" />
+    <img width="1456" height="720" alt="Gemini_Generated_Image_m5awoem5awoem5aw" src="https://github.com/user-attachments/assets/a48418a7-a575-4d7f-b186-0ea907476254" />
+
+
   </a>
 </p>
 
